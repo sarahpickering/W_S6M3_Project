@@ -29,6 +29,8 @@ h1, h2 {
 }
 
 header, footer {
+  color: white;
+  background-color: #04023b;
   display: flex;
   flex-direction: column;
   align-items: center;
